@@ -1,0 +1,31 @@
+{
+  "name": "requiredir-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzheng0571/requiredir-practice.git"
+  },
+  "keywords": [
+    "requiredir",
+    "require",
+    "importdir",
+    "import"
+  ],
+  "engines": {
+    "node": ">= v14.0"
+  },
+  "author": "fengzheng0571",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzheng0571/requiredir-practice/issues"
+  },
+  "homepage": "https://github.com/fengzheng0571/requiredir-practice#readme",
+  "dependencies": {
+    "requiredir": "^1.0.7"
+  }
+}
